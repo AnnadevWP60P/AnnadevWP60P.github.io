@@ -216,7 +216,7 @@ color: #ff4d29;
 }
 .project h6 {
     font-size: 14px;
-    text-transform: uppercase;    
+    text-transform: lowercase;    
     letter-spacing: 1px;
 }
 .project h6::before {
